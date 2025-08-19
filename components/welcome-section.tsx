@@ -14,7 +14,7 @@ export function WelcomeSection() {
   const downloadCV = () => {
     const link = document.createElement("a")
     link.href = "/cv.pdf"
-    link.download = "CV-Frontend-Developer.pdf"
+    link.download = "CV-Abigail-Quillupangui.pdf"
     link.click()
   }
 
@@ -28,8 +28,8 @@ export function WelcomeSection() {
             experiencias <span className="text-primary">digitales únicas</span>
           </h1>
           <p className="text-lg sm:text-xl text-muted-foreground max-w-2xl mx-auto leading-relaxed">
-            Diseño interfaces y desarrollo código que funcional. Cada pixel cuenta, cada interacción
-            importa. Especializada en crear productos digitales que los usuarios quieran usar.
+            Diseño interfaces que enamoran y desarrollo código que funciona. Cada pixel cuenta, cada interacción
+            importa. Especializado en crear productos digitales que los usuarios aman usar.
           </p>
         </div>
 
