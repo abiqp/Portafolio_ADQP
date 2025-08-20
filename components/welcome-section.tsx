@@ -28,8 +28,8 @@ export function WelcomeSection() {
             experiencias <span className="text-primary">digitales únicas</span>
           </h1>
           <p className="text-lg sm:text-xl text-muted-foreground max-w-2xl mx-auto leading-relaxed">
-            Diseño interfaces que enamoran y desarrollo código que funciona. Cada pixel cuenta, cada interacción
-            importa. Especializado en crear productos digitales que los usuarios aman usar.
+            Diseño interfaces y desarrollo código que funciona. Cada pixel cuenta, cada interacción
+            importa. Especializado en crear productos digitales que los usuarios quieran usar.
           </p>
         </div>
 

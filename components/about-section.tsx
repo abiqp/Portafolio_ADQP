@@ -6,7 +6,7 @@ export function AboutSection() {
       <div className="max-w-4xl mx-auto">
         <div className="text-center mb-12">
           <h2 className="font-playfair font-bold text-3xl sm:text-4xl text-foreground mb-4">Acerca de mí</h2>
-          <p className="text-lg text-muted-foreground">Conoce mi algo sobre mi</p>
+          <p className="text-lg text-muted-foreground">Conoce algo sobre mi</p>
         </div>
 
         <Card className="bg-card shadow-lg max-w-3xl mx-auto">
