@@ -48,7 +48,7 @@ export function ProjectsSection() {
       liveUrl: "https://www.figma.com/proto/53hcTXETwgPua6iEoFhsaV/Sistema-de-comprobante-electronico?node-id=2-2&p=f&t=CpFfhThWMourcZVa-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A2",
     },
     {
-      title: " Digital",
+      title: "Bill Digital",
       description:
         "Billetera Digital donde podrás realizar pagos de impuestos de forma rápida y segura sin necesidad de salir de tu hogar.",
       image: "/Inicio de seccion.png",
